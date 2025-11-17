@@ -70,14 +70,6 @@ class _HomeScreenState extends State<HomeScreen> {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
-                        IconButton(
-                          onPressed: openProfile,
-                          icon: const Icon(
-                            Icons.person,
-                            color: Color(0xFF0AE2D0),
-                            size: 30,
-                          ),
-                        ),
                       ],
                     ),
 
